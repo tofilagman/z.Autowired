@@ -1,0 +1,7 @@
+/.vs
+/**/bin
+/**/obj
+/**/logs
+/node_modules
+/**/node_modules
+/**/Reports/data
